@@ -22,7 +22,9 @@
 > ![](./img%20precentation.png) 
 
 ## What is Hoisting in JavaScript?
-> ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.digitalocean.com%2Fcommunity%2Ftutorials%2Funderstanding-hoisting-in-javascript&psig=AOvVaw2rOB4xh0FswSMmlNaC7Nrp&ust=1678977394403000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOjyqq2U3v0CFQAAAAAdAAAAABAg)
+> Подъем JavaScript относится к процессу, при котором интерпретатор, кажется, перемещает объявление функций, переменных или классов в верхнюю часть их области видимости перед выполнением кода.
+>
+>![](./img5.png)
 
 ## What is Recursion in JavaScript?
 > Рекурсия — это шаблон или концепция программирования, встроенная во многие языки программирования, и JavaScript не остался в стороне. Это функция, используемая при создании функции, которая продолжает вызывать саму себя, но с меньшими входными данными каждый раз подряд, пока не будет достигнут желаемый результат кода с самого начала.
